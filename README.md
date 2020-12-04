@@ -1,16 +1,1 @@
-# flutter_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#This is ongoing project that is designed for the chain of clothing showrooms. It's User-Interfaces and signing-in/up parts are already implimented. Users can sign-in/up through their emails and can obsrve the products. My next step is building the admin's side.
