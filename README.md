@@ -1,1 +1,1 @@
-#This is ongoing project that is designed for the chain of clothing showrooms. It's User-Interfaces and signing-in/up parts are already implimented. Users can sign-in/up through their emails and can obsrve the products. My next step is building the admin's side.
+#This is an ongoing project that is designed for the chain of clothing showrooms titled "Online shopping mall". It's User-Interfaces and signing-in/up parts are already implimented. Users can sign-in/up through their emails and can obsrve the products. My next step is building the admin's side.
